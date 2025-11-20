@@ -168,7 +168,7 @@ export default function Index() {
                         </div>
                       </div>
                       
-                      <Button className="w-full" variant="default">
+                      <Button className="w-full bg-secondary hover:bg-secondary/90" variant="default">
                         <Icon name="Play" className="mr-2" size={16} />
                         Выбрать
                       </Button>
